@@ -1,0 +1,22 @@
+# Readable notebook diff for PR #1. Comment on any line below.
+# When review is done, add the 'notebook-review-done' label and this file
+# will be removed automatically. The PR can't merge until it's gone.
+
+--- a/demo.ipynb
++++ b/demo.ipynb
+@@ -1,8 +1,12 @@
+ # %%
+ 
+ # %%
+-'hi'
++'bye'
+ 
+ # %%
+-1+1
+ 
++# %%
++
++# %%
++7+6
++
+
